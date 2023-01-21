@@ -159,8 +159,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **Create calculator interface**
-- [ ] **Add calculator functionality**
+- [x] ~~**Create calculator interface**~~
+- [x] ~~**Add calculator functionality**~~
 - [ ] **Create the Quote page**
 - [ ] **Make it choose a random quote on every reload**
 
