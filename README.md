@@ -161,7 +161,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 - [x] ~~**Create calculator interface**~~
 - [x] ~~**Add calculator functionality**~~
-- [ ] **Create the Quote page**
+- [x] ~~**Create all the pages for the website and use routing**~~
 - [ ] **Make it choose a random quote on every reload**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
