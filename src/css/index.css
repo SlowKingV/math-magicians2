@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body {
+  margin: 0;
+  /* font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif; */
+  font-family: 'Manrope', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0 1.5em;
+}
+
+#root {
+  font-size: 3vh;
+  margin: 0 auto;
+  max-width: 1024px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding: 0.8rem 0;
+}
+
+code {
+  font-family:
+  source-code-pro,
+  Menlo,
+  Monaco,
+  Consolas,
+  'Courier New',
+  monospace;
+}
+
+.no-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
