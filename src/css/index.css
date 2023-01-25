@@ -35,8 +35,8 @@ h4 {
   padding: 0.4em 0;
 }
 
-h1 { font-size: 3rem }
-h2 { font-size: 2.5rem }
+h1 { font-size: 2.8rem }
+h2 { font-size: 2.4rem }
 
 code {
   font-family:
@@ -61,8 +61,8 @@ input { font-size: 1.2rem; }
   white-space: nowrap;
 }
 
-@media screen and (min-height: 768px) {
-  :root { font-size: 23px; }
+@media screen and (min-height: 640px) {
+  :root { font-size: 20px; }
 }
 
 @media (orientation: portrait) {
