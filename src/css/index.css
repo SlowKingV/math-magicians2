@@ -48,6 +48,9 @@ code {
   monospace;
 }
 
+button,
+input { font-size: 1.2rem; }
+
 .no-list {
   list-style: none;
   margin: 0;

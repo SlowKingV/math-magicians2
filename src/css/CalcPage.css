@@ -2,3 +2,15 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (orientation: portrait) {
+  .calc-page {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .calculator {
+    height: 80vw;
+    width: 80vw;
+  }
+}
