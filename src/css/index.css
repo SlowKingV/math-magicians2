@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
+:root { font-size: 3vh; }
+
 body {
   margin: 0;
   /* font-family:
@@ -21,7 +23,6 @@ body {
 }
 
 #root {
-  font-size: 3vh;
   margin: 0 auto;
   max-width: 1024px;
 }
@@ -51,4 +52,16 @@ code {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+@media screen and (min-height: 768px) {
+  :root { font-size: 23px; }
+}
+
+@media (orientation: portrait) {
+  :root { font-size: 3vw; }
 }
